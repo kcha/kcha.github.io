@@ -22,6 +22,7 @@ sass:
 author:
   name:              Kevin Ha
   email:             k.ha@mail.utoronto.ca
+  url:               http://kevinha.ca
 
 # Custom variables
 github_username:     kcha
@@ -31,9 +32,23 @@ gems:
   - jekyll-paginate
   - jekyll-gist
 
+# List of sections to put in the navigation bar
 pages_list:
-  Projects: '/projects/'
   Blog: '/blog/'
+  Projects: '/projects/'
   Archive: '/archive/'
+  About: '/'
+
+# List of icons to put in footer
+# Borrowed from Beautiful Jekyll: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+icons_list:
+  top: true
+  home: true
+  rss: false
+  email: true
+  github: true
+  linkedin: false
+
+
 
 
