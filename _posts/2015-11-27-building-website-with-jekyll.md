@@ -105,8 +105,9 @@ nav {
 }
 {% endhighlight %}
 
-For fun, I also included some icon links using [Font Awesome](https://fortawesome.github.io/Font-Awesome/) in the footer. I created a new HTML snippet called `icons.html` and saved it inside the `_includes` sub-directory. The HTML and configuration formats were
-borrowed from Beautiful Jekyll. Here, I'm only showing icons for Home
+For fun, I also included some icon links using [Font Awesome](https://fortawesome.github.io/Font-Awesome/) in the footer. I created a new HTML snippet called `icons.html` and saved it inside the `_includes` sub-directory. This [blog post](https://blog.r3bl.me/en/simple-social-media-links-jekyll/) provides a nice explanation on how to integrate
+social media links using Jekyll. Beautiful Jekyll also uses a similar approach.
+Here, I'm only showing icons for Home
 and GitHub, but I had also included others like e-mail and RSS in the real file.
 
 {% highlight html %}
@@ -130,7 +131,7 @@ and GitHub, but I had also included others like e-mail and RSS in the real file.
 {% endraw %}
 {% endhighlight %}
 
-To control which  icons get shown, I added a custom variable `icons_list` into
+To control which icons get shown, I added a custom variable `icons_list` into
 _config.yml`:
 {% highlight yaml %}
 icons_list:
