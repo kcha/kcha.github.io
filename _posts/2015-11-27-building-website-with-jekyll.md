@@ -188,12 +188,15 @@ permalink:          blog/:title.html
 {% endhighlight %}
 
 In this case, I wanted my URL to include the `blog` subdirectory, followed by the
-title of the blog post. You could also include the date in the filename as well by
-doing something like:
+title of the blog post\*. You could also include
+the date in the filename as well by doing something like:
 
 {% highlight yaml %}
 permalink:          blog//:year/:month/:day/:title.html
 {% endhighlight %}
+
+*\*Update: I actually decided to use this latter format to
+make it easier to see the date of posting in the URL*.
 
 ## Adding a favicon
 I chose a [Font Awesome](http://fontawesome.io/) favicon (<i class="icon fa fa-code fa-lg" title="code favicon"></i>)
