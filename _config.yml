@@ -6,7 +6,7 @@ permalink:           "blog/:title.html"
 
 # Setup
 title:               Kevin Ha
-tagline:             Ph.D. candidate in computational biology 
+tagline:             University of Toronto
 paginate:            3
 paginate_path:       "blog/page:num/"
 baseurl:             ""
