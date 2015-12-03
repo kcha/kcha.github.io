@@ -193,7 +193,7 @@ title of the blog post\*. You could also include
 the date in the filename as well by doing something like:
 
 {% highlight yaml %}
-permalink:          blog//:year/:month/:day/:title.html
+permalink:          blog/:year/:month/:day/:title.html
 {% endhighlight %}
 
 *\*Update: I actually decided to use this latter format to
