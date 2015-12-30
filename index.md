@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<span class="image avatar"><img src="http://individual.utoronto.ca/hakevin/images/avatar.jpg" alt="" /></span>
+<span class="image avatar"><img src="http://individual.utoronto.ca/hakevin/images/avatar2.jpg" alt="" /></span>
 
 # About
 
