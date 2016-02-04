@@ -8,7 +8,7 @@ title: Home
 # About
 
 I am a Ph.D. candidate in the Department of Molecular Genetics at the University
-of Toronto. I am co-supervised by [Ben
+of Toronto and co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
 Morris](http://morrislab.med.utoronto.ca/homepage.html). 
 
