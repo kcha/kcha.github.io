@@ -36,8 +36,10 @@ gems:
 pages_list:
   Projects: '/projects/'
   Blog: '/blog/'
+
+# These are not shown in the navigation bar
+other_pages_list:
   Archive: '/archive/'
-  #About: '/'
 
 # List of icons to put in footer
 # Borrowed from Beautiful Jekyll: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
