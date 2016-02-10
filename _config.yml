@@ -37,7 +37,7 @@ pages_list:
   Projects: '/projects/'
   Blog: '/blog/'
   Archive: '/archive/'
-  About: '/'
+  #About: '/'
 
 # List of icons to put in footer
 # Borrowed from Beautiful Jekyll: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
