@@ -10,7 +10,7 @@ title: Home
 I am a Ph.D. candidate in the Department of Molecular Genetics at the University
 of Toronto and co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
-Morris](http://morrislab.med.utoronto.ca/homepage.html). 
+Morris](http://www.morrislab.ca). 
 
 I received a M.Sc. in Human Genetics and Bioinformatics at McGill University 
 (advised by [Jacek Majewski](http://www.genomequebec.mcgill.ca/compgen/majewskilab)) and
@@ -35,4 +35,4 @@ Outside of the lab, you'll most likely find me in cleats chasing [flying discs](
 # Publications
 
 View my publications on
-[Pubmed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Kevin+Ha%5Bauthor%5D++canada)
+[Google Scholar](https://scholar.google.ca/citations?user=9xTTM_cAAAAJ)
