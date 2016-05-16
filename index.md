@@ -12,9 +12,9 @@ of Toronto and co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
 Morris](http://www.morrislab.ca). 
 
-I received a M.Sc. in Human Genetics and Bioinformatics at McGill University 
+I received my M.Sc. in Human Genetics and Bioinformatics at McGill University 
 (advised by [Jacek Majewski](http://www.genomequebec.mcgill.ca/compgen/majewskilab)) and
-a B.Sc. in Bioinformatics at the University of Waterloo. My M.Sc. thesis focused
+my B.Sc. in Bioinformatics at the University of Waterloo. My M.Sc. thesis focused
 on computationally characterizing alternative splicing and gene fusions using
 microarray and high-throughput RNA sequencing technologies, respectively. 
 
