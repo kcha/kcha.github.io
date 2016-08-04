@@ -18,7 +18,7 @@ my B.Sc. in Bioinformatics at the University of Waterloo. My M.Sc. thesis focuse
 on computationally characterizing alternative splicing and gene fusions using
 microarray and high-throughput RNA sequencing technologies, respectively. 
 
-After my M.Sc. and prior to starting my Ph.D., I was a research intern with the
+Prior to starting my Ph.D., I was a research intern with the
 [Microsoft Biology Initiative](http://research.microsoft.com/en-
 US/projects/bio/default.aspx) group at
 Microsoft Research, Redmond, WA, where I developed [bioinformatics software](https://seqcos.codeplex.com/) using
