@@ -10,18 +10,17 @@ title: Home
 I am a Ph.D. candidate in the Department of Molecular Genetics at the University
 of Toronto and co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
-Morris](http://www.morrislab.ca). 
+Morris](http://www.morrislab.ca).
 
-I received my M.Sc. in Human Genetics and Bioinformatics at McGill University 
+I received my M.Sc. in Human Genetics and Bioinformatics at McGill University
 (advised by [Jacek Majewski](http://www.genomequebec.mcgill.ca/compgen/majewskilab)) and
 my B.Sc. in Bioinformatics at the University of Waterloo. My M.Sc. thesis focused
 on computationally characterizing alternative splicing and gene fusions using
-microarray and high-throughput RNA sequencing technologies, respectively. 
+microarray and high-throughput RNA sequencing technologies, respectively.
 
 Prior to starting my Ph.D., I was a research intern with the
-[Microsoft Biology Initiative](http://research.microsoft.com/en-
-US/projects/bio/default.aspx) group at
-Microsoft Research, Redmond, WA, where I developed [bioinformatics software](https://seqcos.codeplex.com/) using
+Microsoft Biology Initiative group at
+[Microsoft Research](https://research.microsoft.com), Redmond, WA, where I developed [bioinformatics software](https://seqcos.codeplex.com/) using
 .NET.
 
 Outside of the lab, you'll most likely find me in cleats chasing [flying discs](https://en.wikipedia.org/wiki/Ultimate_%28sport%29).
