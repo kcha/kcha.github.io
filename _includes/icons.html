@@ -2,42 +2,42 @@
 	{% if site.icons_list.top %}
 	<li>
 	  <a href="#top" title="Go to top">
-	  	<i class="icon fa fa-arrow-circle-up fa-lg"></i> 
+	  	<i class="icon fa fa-arrow-circle-up fa-2x"></i>
 	  </a>
 	</li>
-	{% endif %}	
+	{% endif %}
 	{% if site.author.url and site.icons_list.home %}
 	<li>
 		<a href="{{ site.baseurl }}/" title="Home">
-			<i class="icon fa fa-home fa-lg"></i> 
+			<i class="icon fa fa-home fa-2x"></i>
 		</a>
 	</li>
 	{% endif %}
 	{% if site.github_username and site.icons_list.github %}
 	<li>
 		<a href="https://github.com/{{ site.github_username }}" title="GitHub">
-			<i class="icon fa fa-github fa-lg"></i>     
+			<i class="icon fa fa-github fa-2x"></i>
 		</a>
 	</li>
 	{% endif %}
 	{% if site.linkedin_username and site.icons_list.linkedin %}
 	<li>
-		<a href="https://ca.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
-			<i class="icon fa fa-linkedin fa-lg"></i> 
+		<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn">
+			<i class="icon fa fa-linkedin-square fa-2x"></i>
 		</a>
 	</li>
 	{% endif %}
 	{% if site.author.email and site.icons_list.email %}
 	<li>
         <a href="mailto:{{ site.author.email }}?subject=[{{ site.author.url }}]:&nbsp;" title="E-mail">
-			<i class="icon fa fa-envelope fa-lg"></i>
+			<i class="icon fa fa-envelope fa-2x"></i>
 		</a>
 	</li>
 	{% endif %}
 	{% if site.icons_list.rss %}
 	<li>
 		<a href="{{ '/atom.xml' | prepend: site.baseurl }}" title="RSS">
-			<i class="icon fa fa-rss fa-lg"></i>
+			<i class="icon fa fa-rss fa-2x"></i>
 		</a>
 	</li>
 	{% endif %}

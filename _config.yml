@@ -49,7 +49,7 @@ icons_list:
   rss: false
   email: true
   github: true
-  linkedin: false
+  linkedin: true
 
 
 
