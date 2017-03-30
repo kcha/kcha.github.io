@@ -44,7 +44,7 @@ other_pages_list:
 # List of icons to put in footer
 # Borrowed from Beautiful Jekyll: https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
 icons_list:
-  top: true
+  top: false
   home: true
   rss: false
   email: true

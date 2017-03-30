@@ -7,10 +7,10 @@ title: Home
 
 # About
 
-I am a Ph.D. candidate in the Department of Molecular Genetics at the University
+I am currently a Ph.D. candidate in the Department of Molecular Genetics at the University
 of Toronto and co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
-Morris](http://www.morrislab.ca).
+Morris](http://www.morrislab.ca). My research is focused on using computational and machine learning methods to study post-transcriptional regulatory mechanisms, particularly alternative splicing and 3' end processing, from high-throughput data.
 
 I received my M.Sc. in Human Genetics and Bioinformatics at McGill University
 (advised by [Jacek Majewski](http://www.genomequebec.mcgill.ca/compgen/majewskilab)) and
