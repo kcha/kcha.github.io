@@ -23,8 +23,6 @@ Microsoft Biology Initiative group at
 [Microsoft Research](https://research.microsoft.com), Redmond, WA, where I developed [bioinformatics software](https://seqcos.codeplex.com/) using
 .NET.
 
-Outside of the lab, you'll most likely find me in cleats chasing [flying discs](https://en.wikipedia.org/wiki/Ultimate_%28sport%29).
-
 # Research Interests
 
 - Computational biology
