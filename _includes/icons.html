@@ -27,13 +27,6 @@
 		</a>
 	</li>
 	{% endif %}
-	{% if site.author.email and site.icons_list.email %}
-	<li>
-        <a href="mailto:{{ site.author.email }}?subject=[{{ site.author.url }}]:&nbsp;" title="E-mail">
-			<i class="icon fa fa-envelope fa-2x"></i>
-		</a>
-	</li>
-	{% endif %}
 	{% if site.icons_list.rss %}
 	<li>
 		<a href="{{ '/atom.xml' | prepend: site.baseurl }}" title="RSS">
