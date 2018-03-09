@@ -4,7 +4,7 @@ title: Building my website with Jekyll
 ---
 
 Recently I decided to update my personal website using [Github Pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com/). One big selling point was that I could use [Markdown](https://daringfireball.net/projects/markdown/) to create my pages and posts. I was
- inspired by this [blog post](http://joshualande.com/jekyll-github-pages-poole/),
+ inspired by this [blog post](http://joshualande.com/jekyll-github-pages-poole),
 which was a great starting point for me to dive into Jekyll. Here, I
 write about my own experience getting started. Rather than writing a comprehensive how-to post, 
 I'll just point to online resources that I learned from and highlight some
