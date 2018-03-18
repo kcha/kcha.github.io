@@ -34,7 +34,7 @@ color.bar(
 	title = input$title)
 {% endhighlight %}
 
-![Screenshot](http://individual.utoronto.ca/hakevin/images/colour_bar_shiny_1.png)
+![Screenshot](/assets/images/colour_bar_shiny_1.png)
 
 ## Saving the colour bar
 The generated colour bar can then
