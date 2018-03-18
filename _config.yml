@@ -23,7 +23,7 @@ author:
   name:              Kevin Ha
   email:             k.ha@mail.utoronto.ca
   url:               https://kcha.github.io
-  avatar:            "http://individual.utoronto.ca/hakevin/images/avatar2.jpg"
+  avatar:            "assets/images/avatar.jpg"
   title:             "PhD candidate in computational biology"
   location:          "University of Toronto"
 
@@ -56,6 +56,5 @@ icons_list:
   github: true
   linkedin: true
 
-
-
-
+collections:
+  - portfolio
