@@ -1,0 +1,30 @@
+<ul class="bar" align="center">
+    {% if site.github_username and site.icons_list.github %}
+    <li>
+        <a href="https://github.com/{{ site.github_username }}" title="GitHub">
+            <i class="icon fa fa-github fa-2x"></i>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.linkedin_username and site.icons_list.linkedin %}
+    <li>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="Linkedin">
+            <i class="icon fa fa-linkedin-square fa-2x"></i>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.author.email and site.icons_list.email %}
+    <li>
+        <a href="mailto:{{ site.author.email }}?subject=[{{ site.author.url }}]:&nbsp;" title="E-mail">
+            <i class="icon fa fa-envelope fa-2x"></i>
+        </a>
+    </li>
+    {% endif %}
+    {% if site.icons_list.rss %}
+    <li>
+        <a href="{{ '/atom.xml' | prepend: site.baseurl }}" title="RSS">
+            <i class="icon fa fa-rss fa-2x"></i>
+        </a>
+    </li>
+    {% endif %}
+</ul>

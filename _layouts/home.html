@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<table id='splash'>
+  <tr align='center'>
+    <th>
+      <span class="image avatar"><img src="{{ site.author.avatar }}" alt="" /></span>
+    </th>
+    <th>
+      <ul>
+        <li>{{ site.author.title }}</li>
+        <li>{{ site.author.location }}</li>
+      </ul>
+
+      {% include icons_profile.html %}
+    </th>
+  </tr>
+</table>
+
+{{ content }}

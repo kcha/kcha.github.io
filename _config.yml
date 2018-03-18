@@ -23,18 +23,23 @@ author:
   name:              Kevin Ha
   email:             k.ha@mail.utoronto.ca
   url:               https://kcha.github.io
+  avatar:            "http://individual.utoronto.ca/hakevin/images/avatar2.jpg"
+  title:             "PhD candidate in computational biology"
+  location:          "University of Toronto"
 
 # Custom variables
 github_username:     kcha
 linkedin_username:   kevinchha
 
-gems:
+plugins: # previously gems:
   - jekyll-paginate
   - jekyll-gist
 
 # List of sections to put in the navigation bar
 pages_list:
+  About: '/#about'
   Projects: '/projects/'
+  Publications: '/#selected-publications'
   Blog: '/blog/'
 
 # These are not shown in the navigation bar
