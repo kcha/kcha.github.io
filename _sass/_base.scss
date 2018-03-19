@@ -18,11 +18,11 @@ html {
   /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  font-size: 14px;
+  font-size: $base-font-size * 0.875;
   line-height: 1.5;
 
   @media (min-width: 38em) {
-    font-size: 16px;
+    font-size: $base-font-size;
   }
 }
 
@@ -42,7 +42,7 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    color: #268bd2;
+    color: $hover-color;
     -moz-transition: color 0.15s ease-in-out;
     -webkit-transition: color 0.15s ease-in-out;
     -o-transition: color 0.15s ease-in-out;
@@ -61,8 +61,6 @@ img {
   margin: 0 0 1rem;
   border-radius: 5px;
 }
-
-
 
 .image.avatar img
 {
@@ -157,10 +155,39 @@ tbody tr:nth-child(odd) th {
   }
 
   a:hover {
-    color: #268bd2;
+    color: $hover-color;
   }
 }
 
-.navbar-custom {
+/**
+ * Wrapper
+ */
+.wrapper {
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 0;
+  padding-left: 0;
+  @extend %clearfix;
 
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+

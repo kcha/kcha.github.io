@@ -6,20 +6,7 @@
   <body>
 
     <div class="container content" id="top">
-      <header class="masthead">
-        <h1 class="masthead-title">
-          <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-        </h1>
-
-        <nav class="navbar-custom">
-          <ul class="bar">
-            {% for page in site.pages_list %}
-              <li><small><a href="{{ page[1]  }}">{{ page[0] }}</a></small></li>
-            {% endfor %}
-          </ul>
-        </nav>
-
-      </header>
+      {% include header.html %}
 
       <main>
         {{ content }}

@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-I am currently a PhD candidate in the Department of Molecular Genetics at the
+I am a PhD candidate in the Department of Molecular Genetics at the
 University of Toronto (co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
 Morris](http://www.morrislab.ca)). My research is focused on developing
