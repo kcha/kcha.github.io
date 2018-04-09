@@ -34,6 +34,7 @@ linkedin_username:   kevinchha
 plugins: # previously gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-seo-tag
 
 # List of sections to put in the navigation bar
 pages_list:
