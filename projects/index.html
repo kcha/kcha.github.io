@@ -1,0 +1,25 @@
+---
+layout: default
+title: Projects
+---
+{% assign projects = site.portfolio | reverse %}
+<h1>Python</h1>
+{% for post in projects %}
+    {% if post.language contains "python" %}
+        {% include project.html %}
+    {% endif %}
+{% endfor %}
+<hr align="center">
+<h1>R</h1>
+{% for post in projects %}
+    {% if post.language contains "R" %}
+        {% include project.html %}
+    {% endif %}
+{% endfor %}
+<hr>
+<h1>Other</h1>
+{% for post in projects %}
+    {% if post.language != "python" and post.language != "R" %}
+        {% include project.html %}
+    {% endif %}
+{% endfor %}

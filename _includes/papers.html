@@ -1,0 +1,19 @@
+<small>\* denotes joint authorship. Full publication list available on
+[Google Scholar](https://scholar.google.ca/citations?user=9xTTM_cAAAAJ).</small>
+
+<div class="pubications">
+    {% assign papers = site.papers | reverse %}
+    
+    <ol>
+        {% for paper in papers %}
+        <li>
+
+            <a class="papertitle" href="https://doi.org/{{ paper.doi }}">{{ paper.title }}</a><br />
+            <small>
+                {{ paper.authors }} ({{ paper.year }}). <i>{{ paper.journal }}</i>. {{ paper.volume }}:{{ paper.pages }}.
+            </small>
+        </li>
+        <div class="mediumspacer"></div>
+        {% endfor %}
+    </ol>
+</div>

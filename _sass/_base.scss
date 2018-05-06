@@ -191,3 +191,23 @@ tbody tr:nth-child(odd) th {
 }
 
 
+.pull-right {
+    float: right;
+}
+
+.mediumspacer {
+    height: 12px;
+}
+
+.smallspacer {
+    height: 5px;
+}
+
+/**
+ * Papers
+ */
+.papertitle {
+    font-weight: bold;
+    text-decoration: none;
+
+}
