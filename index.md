@@ -9,13 +9,12 @@ I am a PhD candidate in the Department of Molecular Genetics at the
 University of Toronto (co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
 Morris](http://www.morrislab.ca)). My research is focused on developing
-computational and machine learning methods to study the transcriptome of the cell using high-throughput sequencing data.
+computational and machine learning methods to study the transcriptome of the
+cell using high-throughput sequencing data.
 
 Prior to starting my PhD, I was a research intern with the
 Microsoft Biology Initiative group at
-[Microsoft Research](https://research.microsoft.com) where I
-developed [bioinformatics software](https://seqcos.codeplex.com/) using
-.NET.
+[Microsoft Research](https://research.microsoft.com).
 
 # Research Interests
 
