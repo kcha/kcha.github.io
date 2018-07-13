@@ -14,7 +14,7 @@ cell using high-throughput sequencing data.
 
 Prior to starting my PhD, I was a research intern with the
 Microsoft Biology Initiative group at
-[Microsoft Research](https://research.microsoft.com).
+Microsoft Research.
 
 # Research Interests
 
@@ -26,7 +26,7 @@ Microsoft Biology Initiative group at
 
 - **PhD**, Molecular Genetics, University of Toronto, 2011 - present
 - **MSc**, Human Genetics and Bioinformatics, McGill University, 2008 - 2011
-- **BSc**, Bioinformatics, University of Waterloo, 2003 - 2008
+- **BSc**, Bioinformatics (Co-op), University of Waterloo, 2003 - 2008
 
 # Selected Publications
 

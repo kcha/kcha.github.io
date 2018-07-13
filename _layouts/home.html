@@ -11,10 +11,10 @@ layout: default
       <ul>
         <li>{{ site.author.title }}</li>
         <li>{{ site.author.location }}</li>
-        <li><a
-                href="http://ccbr.utoronto.ca/donnelly-centre-cellular-and-biomolecular-research">Donnelly
-                Centre</a><li>
-        <li><a href="https://vectorinstitute.ai">Vector Institute</a></li>
+        <li><a href="{{ site.author.affiliation_url_1 }}">{{
+                site.author.affiliation_1 }}</a></li>
+        <li><a href="{{ site.author.affiliation_url_2 }}">{{
+                site.author.affiliation_2 }}</a></li>
       </ul>
 
       {% include icons_profile.html %}
