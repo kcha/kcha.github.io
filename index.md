@@ -5,10 +5,10 @@ title: Home
 
 # About
 
-I am a PhD candidate in the Department of Molecular Genetics at the
+I completed my PhD in the Department of Molecular Genetics at the
 University of Toronto (co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
-Morris](http://www.morrislab.ca)). My research is focused on developing
+Morris](http://www.morrislab.ca)). My research was focused on developing
 computational and machine learning methods to study the transcriptome of the
 cell using high-throughput sequencing data.
 
@@ -18,16 +18,17 @@ Microsoft Research.
 
 # Research Interests
 
-- Computational biology
-- Post-transcriptional regulatory mechanisms
-- Machine learning
+- Computational biology and machine learning
+- Genomics
+- Healthcare
 
 # Education
 
-- **PhD**, Molecular Genetics, University of Toronto, 2011 - present
+- **PhD**, Molecular Genetics, University of Toronto, 2011 - 2019
 - **MSc**, Human Genetics and Bioinformatics, McGill University, 2008 - 2011
 - **BSc**, Bioinformatics (Co-op), University of Waterloo, 2003 - 2008
 
 # Selected Publications
 
 {% include papers.html %}
+

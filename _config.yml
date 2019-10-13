@@ -24,12 +24,8 @@ author:
   email:             k.ha@mail.utoronto.ca
   url:               https://kcha.github.io
   avatar:            "assets/images/avatar.jpg"
-  title:             "PhD candidate in computational biology"
-  location:          "University of Toronto"
-  affiliation_1:     "Donnelly Centre"
-  affiliation_url_1: "http://ccbr.utoronto.ca/donnelly-centre-cellular-and-biomolecular-research"
-  affiliation_2:     "Vector Institute"
-  affiliation_url_2: "https://vectorinstitute.ai"
+  title:             "PhD in computational biology and molecular genetics"
+  location:          "Toronto, ON"
 
 # Custom variables
 github_username:     kcha
