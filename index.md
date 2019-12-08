@@ -16,11 +16,11 @@ Prior to starting my PhD, I was a research intern with the
 Microsoft Biology Initiative group at
 Microsoft Research.
 
-# Research Interests
+# Interests
 
-- Computational biology and machine learning
+- Machine learning
+- Computational biology 
 - Genomics
-- Healthcare
 
 # Education
 
