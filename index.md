@@ -25,10 +25,10 @@ Microsoft Research.
 # Education
 
 - **PhD**, Molecular Genetics, University of Toronto, 2019
-    Thesis: Systematic Analysis of Alternative Polyadenylation from High-Throughput
+  - Thesis: Systematic Analysis of Alternative Polyadenylation from High-Throughput
 RNA Sequencing Data
 - **MSc**, Human Genetics and Bioinformatics, McGill University, 2011
-    Thesis: Characterization of Alternative Splicing and Gene Fusions Using Current
+  - Thesis: Characterization of Alternative Splicing and Gene Fusions Using Current
 Transcriptome Profiling Technologies
 - **BSc**, Bioinformatics (Co-op), University of Waterloo, 2008
 
