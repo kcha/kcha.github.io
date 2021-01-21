@@ -19,14 +19,18 @@ Microsoft Research.
 # Interests
 
 - Machine learning
-- Computational biology 
+- Computational biology
 - Genomics
 
 # Education
 
-- **PhD**, Molecular Genetics, University of Toronto, 2011 - 2019
-- **MSc**, Human Genetics and Bioinformatics, McGill University, 2008 - 2011
-- **BSc**, Bioinformatics (Co-op), University of Waterloo, 2003 - 2008
+- **PhD**, Molecular Genetics, University of Toronto, 2019
+Thesis: Systematic Analysis of Alternative Polyadenylation from High-Throughput
+RNA Sequencing Data
+- **MSc**, Human Genetics and Bioinformatics, McGill University, 2011
+Thesis: Characterization of Alternative Splicing and Gene Fusions Using Current
+Transcriptome Profiling Technologies
+- **BSc**, Bioinformatics (Co-op), University of Waterloo, 2008
 
 # Selected Publications
 
