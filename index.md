@@ -5,12 +5,17 @@ title: Home
 
 # About
 
+I am currently Head of Data Science, Genomics at
+[BioSymetrics](https://www.biosymetrics.com).
+
 I completed my PhD in the Department of Molecular Genetics at the
 University of Toronto (co-supervised by [Ben
 Blencowe](http://sites.utoronto.ca/intron) and [Quaid
 Morris](http://www.morrislab.ca)). My research was focused on developing
-computational and machine learning methods to study the transcriptome of the
-cell using high-throughput sequencing data.
+computational and machine learning methods to study the
+[transcriptome](https://en.wikipedia.org/wiki/Transcriptome) using
+high-throughput sequencing datasets. Some of my PhD projects can be found in
+[here](projects).
 
 Prior to starting my PhD, I was a research intern with the
 Microsoft Biology Initiative group at
