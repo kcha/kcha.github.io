@@ -6,7 +6,7 @@ permalink:           "blog/:year/:month/:day/:title.html"
 
 # Setup
 title:               Kevin Ha
-tagline:             University of Toronto
+  #tagline:
 paginate:            3
 paginate_path:       "blog/page:num/"
 baseurl:             ""
