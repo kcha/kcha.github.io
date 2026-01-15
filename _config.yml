@@ -21,7 +21,6 @@ sass:
 # About/contact
 author:
   name:              Kevin Ha
-  email:             k.ha@mail.utoronto.ca
   url:               https://kcha.github.io
   avatar:            "assets/images/avatar.jpg"
   title:             "Data scientist, computational biologist"
